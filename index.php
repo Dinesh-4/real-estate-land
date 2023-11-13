@@ -16,7 +16,7 @@ include("config.php");
 
     <!-- Meta Tags -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="shortcut icon" href="images/logo_small.png">
 
     <!--	Fonts
 	========================================================-->
@@ -37,7 +37,7 @@ include("config.php");
 
     <!--	Title
 	=========================================================-->
-    <title>Homex - Real Estate Template</title>
+    <title>Home</title>
 </head>
 
 <body>

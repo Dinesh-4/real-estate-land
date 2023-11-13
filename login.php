@@ -40,7 +40,7 @@ if(isset($_REQUEST['login']))
 
     <!-- Meta Tags -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="shortcut icon" href="images/logo_small.png">
 
     <!--	Fonts
 	========================================================-->
@@ -62,7 +62,7 @@ if(isset($_REQUEST['login']))
 
     <!--	Title
 	=========================================================-->
-    <title>Homex - Real Estate Template</title>
+    <title>login</title>
 
 </head>
 
